@@ -1,0 +1,2 @@
+e002def (HEAD -> main) 日本語訳を追加
+4a88fbe hello,world.txtを追加
